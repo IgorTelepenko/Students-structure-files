@@ -1,0 +1,26 @@
+5
+Vasylchenko
+M
+T
+3
+4 5 5 3 4
+Korolenko
+I
+Y
+16
+3 4 4 5 3
+Lim
+D
+T
+16
+3 3 3 5 4
+Lysenko
+K
+P
+1
+4 4 4 4 4
+Antonov
+Y
+G
+7
+5 5 5 5 4

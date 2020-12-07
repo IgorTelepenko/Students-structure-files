@@ -1,0 +1,21 @@
+4
+Sena
+J
+P
+3
+3 3 3 3 4
+Fendi
+K
+I
+6
+5 5 5 5 4
+Ford
+G
+V
+5
+5 5 5 5 5
+Trump
+D
+M
+4
+4 4 4 4 5
